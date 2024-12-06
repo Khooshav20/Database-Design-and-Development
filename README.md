@@ -33,3 +33,36 @@ vehicles repaired during the current month along with their associated costs, an
 searches for vehicle owners by name. Additionally, the system will enable browsing of owners
 and their vehicles for easy reference. To address the relationship between repairs and
 mechanics, an intermediary table will associate repairs with 
+
+
+---------------------------------------------------------------------------------------------------------
+
+Welcome to the Garage Database Proposal project! This system efficiently manages vehicle repairs in a garage, tracking vehicles, their owners, repairs, mechanics, and parts used.
+
+
+- Files Included
+
+garage.db: The SQLite database file containing all the necessary data.
+
+garage.py: A Python script that provides a command-line interface to interact with the database.
+
+
+- Getting Started
+
+Ensure both garage.db and garage.py are located in the same folder.
+
+Run the script by executing the following command in your terminal:
+
+python garage.py or python3 garage.py 
+
+Once the script runs, you will be presented with a command-line interface offering 5 options to interact with the garage database.
+
+
+- Demo
+
+For a detailed walkthrough of the database and its functionality, check out the demo video here:
+
+https://youtu.be/daD_HNZ8dso 
+
+
+Enjoy using the Garage Database System!
